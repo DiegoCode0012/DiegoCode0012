@@ -1,7 +1,8 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">DiegoCode0012</a> 👋</h1>
+<h1 align="center">Hola, soy DiegoCode0012👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+
+<img src="[https://i.imgur.com/weNbhGZ.png](https://img.freepik.com/vector-premium/plantilla-diseno-bienvenida-colorida-bienvenido-banner-letras-diseno-texto-bienvenida_471203-522.jpg)">
 
 ## Sobre mi
 
