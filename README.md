@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">DiegoCode0012</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
 
-<!--
-**DiegoCode0012/DiegoCode0012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+- ⭐ Github Star ⭐ 
+- 🍂Spring Java Backend Developer
+- 💁‍♂️ Apasionado de aprender nuevas tecnologías
+- 👨‍🎓 Estudiante de 8 ciclo de la UTP
+- 
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
