@@ -8,9 +8,9 @@
   
 ## Sobre mi
 - ⭐ Github Star ⭐ 
-- 🍂Spring Java Backend Developer
+- 🍂Spring Java + Angular Full Stack Developer
 - 💁‍♂️ Apasionado de aprender nuevas tecnologías
-- 👨‍🎓 Estudiante de 8 ciclo de la UTP
+- 👨‍🎓 Estudiante de 10 ciclo de la UTP
 <br>
 
 
